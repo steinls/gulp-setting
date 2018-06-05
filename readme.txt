@@ -1,28 +1,14 @@
-1. ±¾ÎÄ¼şÎŞĞè²¿Êğ
 
-2. ÏÈ°²×° package.json ÖĞµÄnodeÄ£¿é
+1. å…ˆå®‰è£… package.json ä¸­çš„nodeæ¨¡å—
+npm install
 
-¿ÉÄÜĞèÒªÈ«¾Ö°²×° gulp£¬¼´ 
+2.éœ€è¦å…¨å±€å®‰è£… gulp
 
-npm i -g gulp
+npm istall -g gulp
 
-3. È»ºó°²×° bower.json ÖĞµÄÄ£¿é
-
-bower install 
-
-ĞèÒªÈ«¾Ö°²×°bower
-
-npm i -g bower 
-
-
-4. ¿ª·¢Ê±ĞèÒªÆô¶¯ gulp ÈÎÎñ
-
-¼àÌı´úÂë²¢ÊÂÊµĞĞ±àÒë
+3. å¼€å‘æ—¶éœ€è¦å¯åŠ¨ gulp ä»»åŠ¡ï¼Œç›‘å¬ä»£ç å¹¶è¿›è¡Œå®æ—¶ç¼–è¯‘
 
 gulp
 
-5. srcÄ¿Â¼ÖĞµÄ data ÎÄ¼ş¼ĞÎª¼ÙÊı¾İ£¬Ö±½Ó·ÅÖÃµ½ÏîÄ¿µÄ src Ä¿Â¼¼´¿É¡£
-
-6. ä¯ÀÀÆ÷ÊäÈëhttp://localhost:1234/
-
-7.gulp cleanÇå³ı
+4.æ¸…é™¤å¤šä½™ç›®å½•
+gulp clean
